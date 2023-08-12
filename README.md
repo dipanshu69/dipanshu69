@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipanshu</h1>
-<h3 align="center">Passionate Frontend Developer specializing in ReactJS, crafting exceptional user experiences and building high-performance web applications.</h3>
+<h3 align="center">Passionate Frontend Developer specializing in ReactJS, crafting exceptional user experiences, and building high-performance web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu69&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu69" /> </p>
 
