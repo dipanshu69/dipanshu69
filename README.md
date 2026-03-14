@@ -112,7 +112,7 @@ Ingest (APIs · CSV · DB)  →  Transform (SQL · Python · dbt)  →  Model (S
 - 💼 LinkedIn: [Dipanshu Patil](https://www.linkedin.com/in/deepanshu-patil-b5a1b02a1/)
 - 🐦 Twitter: [@dipanshu36](https://twitter.com/dipanshu36)
 - 🗂️ Portfolio: [crio.do/learn/portfolio/deepanshu-patil69](https://www.crio.do/learn/portfolio/deepanshu-patil69/)
-- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1VD1UIJrRh7DGmUJsVBzApQMZwBIPHhq6/view?usp=drive_link)
+- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/17juuv2PSRa9wE-UIIgAA3AIn02TjzNCw/view?usp=sharing)
 
 ---
 
