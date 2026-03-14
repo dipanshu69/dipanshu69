@@ -1,31 +1,100 @@
-<h1 align="center">Hi 👋, I'm Dipanshu</h1>
-<h3 align="center">Passionate Frontend Developer specializing in ReactJS, crafting exceptional user experiences, and building high-performance web applications.</h3>
+<h1 align="center">Hi 👋, I'm Dipanshu Patil</h1>
+<h3 align="center">MIS Analyst · Data Analyst · Data Engineer</h3>
+<p align="center">Transitioning from frontend engineering to data — passionate about turning raw data into reliable insights through clean pipelines, meaningful dashboards, and data-driven decision making.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu69&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshu69" alt="dipanshu69" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/dipanshu36" target="blank"><img src="https://img.shields.io/twitter/follow/dipanshu36?logo=twitter&style=for-the-badge" alt="dipanshu36" /></a> </p>
+### 🔭 What I'm focused on
 
-- 🌱 I’m currently learning **react native**
+- 📊 **MIS & Reporting** — Building management information systems, automated reports, and KPI dashboards
+- 🛠️ **Data Engineering** — Designing and maintaining ETL pipelines, data models, and scalable data infrastructure
+- 🔍 **Data Analysis** — Exploratory analysis, statistical insights, and storytelling through data
+- 📈 **Data Visualization** — Crafting interactive dashboards in Power BI and Tableau
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/deepanshu-patil69/](https://www.crio.do/learn/portfolio/deepanshu-patil69/)
+---
 
-- 📫 How to reach me **deepanshu.patil69@gmail.com**
+### 🌱 Currently learning
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VD1UIJrRh7DGmUJsVBzApQMZwBIPHhq6/view?usp=drive_link](https://drive.google.com/file/d/1VD1UIJrRh7DGmUJsVBzApQMZwBIPHhq6/view?usp=drive_link)
+`Advanced SQL` · `dbt` · `Apache Airflow` · `Data Warehousing` · `BigQuery` · `Snowflake`
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔄 Data Pipeline Thinking
+
+```
+Ingest (APIs · CSV · DB)  →  Transform (SQL · Python · dbt)  →  Model (Star schema · DWH)  →  Visualize (Power BI · Tableau)  →  Insight
+```
+
+---
+
+### 🧰 Skills & Tools
+
+**Data & Analytics Core**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+
+**Databases & Warehouses**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Visualization & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Developer & Frontend (Prior Expertise)**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: [deepanshu.patil69@gmail.com](mailto:deepanshu.patil69@gmail.com)
+- 💼 LinkedIn: [Dipanshu Patil](https://www.linkedin.com/in/dipanshu-patil-167436190/)
+- 🐦 Twitter: [@dipanshu36](https://twitter.com/dipanshu36)
+- 🗂️ Portfolio: [crio.do/learn/portfolio/deepanshu-patil69](https://www.crio.do/learn/portfolio/deepanshu-patil69/)
+- 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1VD1UIJrRh7DGmUJsVBzApQMZwBIPHhq6/view?usp=drive_link)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-<a href="https://twitter.com/dipanshu36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipanshu36" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dipanshu-patil-167436190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-patil-167436190/" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipanshu69&show_icons=true&theme=default&locale=en" alt="dipanshu69" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshu69&show_icons=true&locale=en&layout=compact" alt="dipanshu69" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshu69&show_icons=true&locale=en&layout=compact" alt="dipanshu69" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu69" alt="dipanshu69" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshu69&show_icons=true&locale=en" alt="dipanshu69" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu69&" alt="dipanshu69" /></p>
+<p align="center">
+  <em>Frontend engineering background · now building data skills · open to MIS / Data Analyst / Data Engineer roles</em>
+</p>
